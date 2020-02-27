@@ -1,0 +1,18 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+.bg-blue {
+    background-color: #3b5998
+}
+.text-blue {
+    color: #3b5998;
+}
+.skill {
+    background-color: #3b5998;
+}
+.underline {
+    border-bottom: 2px solid #3b5998
+}
+.profile-photo {
+    max-width: 224px;
+}
